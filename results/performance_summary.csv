@@ -1,0 +1,2 @@
+frames_processed,mean_processing_time_ms,median_processing_time_ms,mean_processing_fps,median_processing_fps,mean_regions_detected,max_regions_detected,min_regions_detected
+240,1.2476895848521963,1.0307999909855425,940.438376646836,970.1203399427002,3.9625,4,3

@@ -1,5 +1,4 @@
 
-@'
 # Computer Vision Object Detection and Frame-by-Frame Segmentation
 
 **Internship:** Progree AI Internship  
